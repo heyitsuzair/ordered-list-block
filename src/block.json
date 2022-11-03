@@ -4,7 +4,7 @@
 	"name": "create-block/ordered-list-block",
 	"version": "0.1.0",
 	"title": "Ordered List Block",
-	"category": "widgets",
+	"category": "custom-uzair-category",
 	"icon": "editor-ol-rtl",
 	"description": "Custom Ordered List Block By MUHAMMAD UZAIR",
 	"supports": {
