@@ -5,8 +5,8 @@
   "version": "0.1.0",
   "title": "Ordered List Block",
   "category": "widgets",
-  "icon": "smiley",
-  "description": "Example block scaffolded with Create Block tool.",
+  "icon": "editor-ol-rtl",
+  "description": "Custom Ordered List Block By MUHAMMAD UZAIR",
   "supports": {
     "html": false
   },
