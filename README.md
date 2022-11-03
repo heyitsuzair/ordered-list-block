@@ -1,5 +1,5 @@
 <div align="center">
-<img src="wordpress.png" alt="WordPress"/>
+<img src="wordpresslogo.png" alt="WordPress"/>
 <br/>
   <h1>
   <img src="https://img.shields.io/badge/WordPress-000000?style=for-the-badge&logo=wordpress&logoColor=white">
